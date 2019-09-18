@@ -1,0 +1,19 @@
+{
+  "name": "javascript-sdk",
+  "version": "1.0.0",
+  "description": "Contoso JavaScript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contoso-engineering/javascript-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contoso-engineering/javascript-sdk/issues"
+  },
+  "homepage": "https://github.com/contoso-engineering/javascript-sdk#readme"
+}
