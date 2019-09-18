@@ -1,1 +1,3 @@
+# Sample Travis CI file
+
 language: javascript
