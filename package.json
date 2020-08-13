@@ -1,6 +1,6 @@
 {
   "name": "javascript-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contoso JavaScript SDK",
   "main": "index.js",
   "scripts": {
