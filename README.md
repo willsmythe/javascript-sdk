@@ -4,5 +4,4 @@ Contoso JavaScript SDK
 
 asdf
 
-casdfa
-asdfasdf
+asdf
