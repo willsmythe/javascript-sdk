@@ -1,0 +1,11 @@
+.rb @monalisa
+
+*.txt @leonardo # this is no longer an invalid place for a comment
+
+*.py @user@example.com
+
+!*foo* @nope
+
+app/models/***/*.rb @monalisa
+stuff @foo
+more.stuff @bar #
