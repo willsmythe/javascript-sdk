@@ -10,4 +10,4 @@ app/models/***/*.rb @monalisa
 stuff @foo
 more.stuff @bar #
 
-
+*.aa @monalisa
