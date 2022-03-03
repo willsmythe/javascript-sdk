@@ -1,8 +1,8 @@
-.rb @monalisa
+.rb @willsmythe
 
 *.txt @leonardo # this is now a valid place for a comment
 
-*.py @user@example.com
+*.py @contoso-engineering/my-first-team
 
 !*foo* @nope
 
