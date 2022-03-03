@@ -2,12 +2,6 @@
 
 *.txt @leonardo # this is now a valid place for a comment
 
-*.py @contoso-engineering/my-first-team
+*.py @contoso-engineering/web-team
 
 !*foo* @nope
-
-app/models/***/*.rb @monalisa
-stuff @foo
-more.stuff @bar #
-
-*.aa @monalisa
