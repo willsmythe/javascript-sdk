@@ -1,7 +1,7 @@
 .rb @willsmythe
 
-*.txt @leonardo # this is now a valid place for a comment
+##*.txt @leonardo # this is now a valid place for a comment
 
 *.py @contoso-engineering/both-wills
 
-!*foo* @nope
+##!*foo* @nope
