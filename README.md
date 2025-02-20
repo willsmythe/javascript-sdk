@@ -1,2 +1,2 @@
 # javascript-sdk
-Contoso JavaScripsdF t SDKasdfa asdf 
+Contoso JavaScripsdF t SDasdsafKasdfa asdf 
